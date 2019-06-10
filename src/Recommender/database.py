@@ -10,7 +10,7 @@ df2 = pd.read_csv('movies.csv')
 
 
 config = {
-    "apiKey": "AIzaSyAOxGUnp2vSOKMOGKGyGDSa1Z_qIhcjz24",
+    "apiKey": "",
     "authDomain": "moviecentre96.firebaseapp.com",
     "databaseURL": "https://moviecentre96.firebaseio.com",
     "storageBucket": "moviecentre96",
