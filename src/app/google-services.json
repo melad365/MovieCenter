@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "804813408404",
+    "firebase_url": "https://moviecentre96.firebaseio.com",
+    "project_id": "moviecentre96",
+    "storage_bucket": "moviecentre96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804813408404:android:30e98f160ac0a440",
+        "android_client_info": {
+          "package_name": "com.example.moviecentre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804813408404-uiknt2i28jh2pbvtop9rhmvh1l6g2dd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moviecentre",
+            "certificate_hash": "f52b04fd0d47464a171b7cbb801e4d4569e591cb"
+          }
+        },
+        {
+          "client_id": "804813408404-1o6h482s7m19nmn535be69bup8epi546.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmgkN3gwXOZVH6Vv1PqSqtTAvmHn5nczQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804813408404-1o6h482s7m19nmn535be69bup8epi546.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
